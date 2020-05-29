@@ -23,3 +23,6 @@ It will just print "_Hello from **host** ..._" (_or whatever you have in the env
 But when running from docker, you should see "_Hello from **docker** ..._"
 
 That's all!
+
+### References:
+[What java.security.egd option is for?](https://stackoverflow.com/a/59097932/619530)
